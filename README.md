@@ -4,10 +4,10 @@
 # Wanna see some examples about my activities at school or my cv:
  ![My cv_page] https://portafolioluismorones.netlify.app/
 
- [![school activities]  <br>
+ [![school activities] (  <br>
  --> https://agencia-viajes-express.netlify.app/          <br>
  --> https://redsocial-201864246.netlify.app/        <br>
- --> https://evento-web.netlify.app/
+ --> https://evento-web.netlify.app/)
 
  ![Andorid App]
  https://play.google.com/store/apps/details?id=com.admisiondae.admisionapp2023&hl=es_MX&pli=1
