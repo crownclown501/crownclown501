@@ -5,9 +5,9 @@
  ![My cv_page] https://portafolioluismorones.netlify.app/
 
  ![school activities]
- https://agencia-viajes-express.netlify.app/
- https://redsocial-201864246.netlify.app/
- https://evento-web.netlify.app/
+ (https://agencia-viajes-express.netlify.app/)
+ (https://redsocial-201864246.netlify.app/)
+ (https://evento-web.netlify.app/)
 
  ![Andorid App]
  https://play.google.com/store/apps/details?id=com.admisiondae.admisionapp2023&hl=es_MX&pli=1
