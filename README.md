@@ -4,7 +4,7 @@
 # Wanna see some examples about my activities at school or my cv:
  ![My cv_page] https://portafolioluismorones.netlify.app/
 
- [![school activities]
+ [![school activities
  ![](https://agencia-viajes-express.netlify.app/)
  ![](https://redsocial-201864246.netlify.app/)
  ![](https://evento-web.netlify.app/)
