@@ -1,12 +1,16 @@
 # 💫 About Me:
 !Hi everyone! 👋<br>My name is Luis Morones. <br><br>I'm currently studying Computer Science Engineering and I'm passionate about the world of programming. While I'm still learning, I've built a solid foundation in various languages and frameworks, allowing me to work on interesting projects and continuously improve my skills.<br><br>I consider myself a curious and dedicated person who is always eager to learn more. My experience with different technologies has given me a broad perspective and the flexibility to tackle new challenges and solve problems creatively.<br><br>On my profile, you'll find projects that showcase my growth and my enthusiasm for innovation. I'm always open to collaboration and learning from the community. Thanks for visiting my profile! 🚀
 
-#Wanna see some examples about my activities at school or my cv
-![ (https://portafolioluismorones.netlify.app/)
- (https://agencia-viajes-express.netlify.app/)
- (https://redsocial-201864246.netlify.app/)
- (https://evento-web.netlify.app/)
- (https://play.google.com/store/apps/details?id=com.admisiondae.admisionapp2023&hl=es_MX&pli=1)]
+# Wanna see some examples about my activities at school or my cv:
+ ![My cv_page] https://portafolioluismorones.netlify.app/
+
+ ![school activities]
+ https://agencia-viajes-express.netlify.app/
+ https://redsocial-201864246.netlify.app/
+ https://evento-web.netlify.app/
+
+ ![Andorid App]
+ https://play.google.com/store/apps/details?id=com.admisiondae.admisionapp2023&hl=es_MX&pli=1
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luis-morones-6a6647308?utm) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@luisfernandomoroneshernand1706) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fer.morones@outlook.com) 
