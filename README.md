@@ -3,12 +3,12 @@
 
 # Want to see some examples of my school projects or my CV?
  **My CV:**  
-[View my CV](https://portafolioluismorones.netlify.app/)<br><br>
+[About me CV](https://portafolioluismorones.netlify.app/)<br><br>
 
 **School Projects:**<br>
 - [Travel Agency Website](https://agencia-viajes-express.netlify.app/)<br>
-- [Social Network](https://redsocial-201864246.netlify.app/)<br>
-- [Event Website](https://evento-web.netlify.app/)<br><br>
+- [Social Network Prototype](https://redsocial-201864246.netlify.app/)<br>
+- [Event Website](https://evento-web.netlify.app/)<br>
 
 **Android Application:**<br>
 [Admision DAE BUAP App on Google Play](https://play.google.com/store/apps/details?id=com.admisiondae.admisionapp2023&hl=es_MX&pli=1)
